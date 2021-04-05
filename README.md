@@ -43,7 +43,7 @@ M4nifest0 BIN Generator tool generates valid credit card details and BIN codes w
 
 # See how it works v1.0.0
 ----------------------
-- 🔞 V1.0..0  https://youtu.be/VXVReLe_6eo
+- 🔞 V1.0..0  https://www.youtube.com/watch?v=YMb-PLsyrQI
 
 # How to ger:
 ----------------------
